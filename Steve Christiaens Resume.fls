@@ -1,0 +1,115 @@
+PWD C:/Users/Steve/Git/resume
+INPUT c:/texlive/2013/texmf.cnf
+INPUT c:/texlive/2013/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2013/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT Steve Christiaens Resume.tex
+OUTPUT Steve Christiaens Resume.log
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/size11.clo
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/size11.clo
+INPUT c:/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/preprint/fullpage.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/preprint/fullpage.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+INPUT c:/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+INPUT c:/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+INPUT c:/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2013/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT c:/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT c:/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT c:/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT c:/texlive/2013/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT c:/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT c:/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT Steve Christiaens Resume.aux
+INPUT Steve Christiaens Resume.aux
+OUTPUT Steve Christiaens Resume.aux
+INPUT c:/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+INPUT c:/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+INPUT c:/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT c:/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT c:/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT Steve Christiaens Resume.out
+INPUT Steve Christiaens Resume.out
+INPUT Steve Christiaens Resume.out
+INPUT Steve Christiaens Resume.out
+INPUT ./Steve Christiaens Resume.out
+INPUT ./Steve Christiaens Resume.out
+OUTPUT Steve Christiaens Resume.out
+OUTPUT Steve Christiaens Resume.pdf
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/latex-fonts/lasy9.tfm
+INPUT c:/texlive/2013/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm
+INPUT c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT Steve Christiaens Resume.aux
+INPUT ./Steve Christiaens Resume.out
+INPUT ./Steve Christiaens Resume.out
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
